@@ -79,16 +79,17 @@ h3 {
     background-color: #1D212E;
     margin-top: 5em;
     padding-top: 5em;
-    padding-left: 3em;}
+    padding-bottom: 4em;
+    }
 
 
 .proto {
     font-family: "Special Elite";
-    float: right;
-    padding-top: 4.5em;
+    text-align: left;
     padding-right: 4em;
-    font-size: 1.7em;
-    width: 45%;
+    padding-top: 1em;
+    font-size: 1.3em;
+    width: 65%;
     line-height: 1.3em;
     color: white;
 }
