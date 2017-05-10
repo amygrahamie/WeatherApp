@@ -1,0 +1,94 @@
+* { 
+padding: 0em;
+margin: 0;
+font-size: 100%;
+line-height: 1cm;
+}
+
+
+/*-------------------*/
+
+
+.red {
+    background-color: #DA4756;
+    padding-top: 7em;
+}
+
+
+.green {
+    background-color: #99CFB3;
+    padding-top: 7em;
+    padding-bottom: 7em;
+}
+
+h4 {
+    font-family: "raleway";
+    color: #DA4756;
+    font-size: 2em;
+    text-transform: uppercase;
+    padding-bottom: 3em;
+    padding-top: .5em;
+    letter-spacing: 0.2em;
+    text-align: center;
+}
+
+.darkgrey {
+    background-color: #CCCCCC;
+}
+
+.icon { 
+        width: 10%;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        }
+
+.app {
+        width: 40%;
+        float: right;
+    padding-right: 8em;
+        
+}
+
+
+h1 {
+    font-family: "vibur";
+    font-size: 9em;
+    padding-left: 1em;
+    padding-top: 1em;
+    width: 20%;
+    line-height: 1em;
+}
+
+h2 {
+    font-family: "Special Elite";
+    font-size: 1.5em;
+    padding-left: 7em;
+    padding-top: .5em;
+    width: 45%;
+    line-height: 1.3em;
+}
+
+h3 {
+    font-family: "vibur";
+    font-size: 3em;
+    padding-top: .5em;
+    line-height: 1.3em;
+}
+
+.video {
+    background-color: #1D212E;
+    margin-top: 5em;
+    padding-top: 5em;
+    padding-left: 3em;}
+
+
+.proto {
+    font-family: "Special Elite";
+    float: right;
+    padding-top: 4.5em;
+    padding-right: 4em;
+    font-size: 1.7em;
+    width: 45%;
+    line-height: 1.3em;
+    color: white;
+}
