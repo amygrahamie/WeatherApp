@@ -18,7 +18,7 @@ I also felt these illustrations could be versatile and used in other forms.
 * [User Persona]()
 
 
-* [Weather App](https://amygrahamie.github.io/WeatherApp/weather.html)
+* [Weather Watcher](https://amygrahamie.github.io/WeatherApp/weather.html)
 
 Finally I have constructed a site to showcase how my designs may be used. Also including a prototype of the site in action.
 
