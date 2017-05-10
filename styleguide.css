@@ -1,0 +1,201 @@
+* { 
+padding: 0em;
+margin: 0;
+font-size: 100%;
+line-height: 1cm;
+}
+
+
+body {
+    background-color:#EAEDED ;
+    font-family: "Raleway";
+    
+}
+
+
+.blue {
+    background-color: #B7DAE2;
+    margin-top: 5em;
+    padding-bottom: 2em;
+}
+a,a:link {
+    color: #576660;
+    text-decoration: none;
+    font-weight: 600;
+    padding-bottom: .3em;
+    
+}
+
+a:hover {
+    text-decoration: none;
+    color: #408F62;
+    position: relative;
+    text-align: left;
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    letter-spacing: 0.3;
+}
+
+h1 {
+    
+    position: relative;
+    text-align: left;
+    font-family: "Raleway";
+    font-weight: 600;
+    color: #576660;
+    text-align: center;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    padding-top: 2em;
+}
+
+h2 {
+    position: relative;
+    text-align: left;
+    font-family: "Raleway";
+    font-weight: 200;
+    color: #576660;
+    text-align: center;
+    font-size: 1.5em;
+    letter-spacing: 0.2em;
+    padding-top: .5em;
+}
+
+h3 {
+    position: relative;
+    text-align: left;
+    font-family: "Raleway";
+    font-weight: 600;
+    color: #576660;
+    text-align: center;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    padding-top: 1em;
+}
+
+h4 {
+    position: relative;
+    text-align: left;
+    font-family: "Raleway";
+    font-weight: 600;
+    color: #576660;
+    text-align: center;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    padding-bottom: 1em;
+}
+
+hr {
+    width: 80%;
+    opacity: 0.9;
+    margin-top: 2em;
+    align-content: center;
+}
+
+.sketches {width: 100%;
+}
+
+.short {
+    width: 10%;
+    margin-top: 0.2em;
+}
+
+.one {
+width: 8%;
+padding-top: 4em;
+padding-bottom: 3.5em;
+animation-duration: 2s;
+animation-delay: 0.2s;}
+
+
+.two {
+width: 8%;
+padding-top: 4em;
+padding-bottom: 3.5em;
+animation-duration: 2s;
+animation-delay: 0.4s;
+padding-left: 1em;
+}
+
+
+.three {
+width: 8%;
+padding-top: 4em;
+padding-bottom: 3.5em;
+animation-duration: 2s;
+animation-delay: 0.6s;
+padding-left: 1em;
+}
+
+
+.four {
+width: 8%;
+padding-top: 4em;
+padding-bottom: 3.5em;
+animation-duration: 2s;
+animation-delay: 0.8s;
+padding-left: 1em;
+}
+
+.five {
+width: 8%;
+padding-top: 4em;
+padding-bottom: 3.5em;
+animation-duration: 2s;
+animation-delay: 0.8s;
+padding-left: 1em;
+}
+
+.five {
+width: 8%;
+padding-top: 4em;
+padding-bottom: 3.5em;
+animation-duration: 2s;
+animation-delay: 0.8s;
+padding-left: 1em;
+}
+
+.six {
+width: 40%;
+padding-top: 4em;
+padding-bottom: 3.5em;
+animation-duration: 2s;
+animation-delay: 0.9s;
+padding-left: 1em;
+}
+
+.inspiration {
+    padding-top: 2em;
+}
+
+.monvoir {
+    padding-top: 2em; 
+}
+
+.baskerville {
+    padding-top: 2em;
+    
+}
+
+.botanist {
+    width: 15%;
+    padding-left: 2em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+.botanist2 {
+    width: 15%;
+    padding-left:1em; 
+     padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.logo {
+    padding-top: 2em;
+    width: 40%;
+    padding-left: 5em;
+    
+}
