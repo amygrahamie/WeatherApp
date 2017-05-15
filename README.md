@@ -21,3 +21,5 @@ I also felt these illustrations could be versatile and used in other forms.
 Finally I have constructed a site to showcase how my designs may be used. Also including a prototype of the site in action.
 
 * [Supporting Sketches & Research](http://amygrahamie.tumblr.com/post/160584841307/supporting-sketches) & [here](http://amygrahamie.tumblr.com/post/160588576352/supporting-sketches)
+
+[IXD303 Posts](http://amygrahamie.tumblr.com/tagged/ixd303)
